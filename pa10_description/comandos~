@@ -1,0 +1,6 @@
+roslaunch moveit_setup_assistant setup_assistant.launch
+
+roslaunch 
+
+roslaunch industrial_robot_client robot_interface_streaming.launch robot_ip:=192.168.0.158
+
